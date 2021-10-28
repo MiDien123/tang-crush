@@ -5,7 +5,7 @@ const CONFIG = {
     biết rằng tớ ju cậu gất nhìuuu`,
     btnIntro: 'hihi',
     title: 'cậu cũng z đúng hok nèeeee😙',
-    desc: 'trả lời đuyyy ',
+    desc: 'trả lời đuyyy:33 ',
     btnYes: 'đúng rùiii',
     btnNo: 'Khum tui ko thích cậu:3',
     question:'ụa sao ju tui z ❤',
